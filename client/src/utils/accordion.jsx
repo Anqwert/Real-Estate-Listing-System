@@ -5,19 +5,19 @@ const data = [
     icon: <HiShieldCheck/>,
     heading: "Best interest rates on the market",
     detail:
-      "Discover the best interest rates on the market for your real estate ventures. Whether you're seeking residential properties, commercial spaces, or investment opportunities, we provide access to competitive rates tailored to your needs. Start browsing now to find the perfect financing options for your next venture.",
+      "Discover unbeatable interest rates for your real estate ventures. Explore our listings to find the best rates on the market today.",
   },
   {
     icon: <MdCancel />,
     heading: "Prevent unstable prices",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Stabilize your investments with our platform. We mitigate market fluctuations, ensuring steady prices for your real estate ventures. Explore stability with us.",
   },
   {
     icon: <MdAnalytics />,
     heading: "Best price on the market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Unlock the ultimate deals for your real estate endeavors. Our platform showcases the best prices on the market, ensuring you secure optimal value. Explore now!",
   },
 ];
 export default data;
